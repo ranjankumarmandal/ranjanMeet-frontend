@@ -10,6 +10,6 @@ Hello visitor, this is my react application, a forntend implementation for ranja
 4. Develop your application using vs code editor
 5. npm start
 
-Note - Here additional JavaScript library has been used - npm i lodash@4.17.10
+Note - This has been hosted in netlify. Steps - Create a build (npm run build), and upload the build folder to netlify and enjoy you application.
 
 Note - Point number 2 means (create a react application using cmd) and 4 means (Run the localhost server using cmd) Want to connect with me, let's connect, go to my linkedin account - [Ranjan Kumar Mandal](https://www.linkedin.com/in/ranjan-kumar-m-818367158/)
